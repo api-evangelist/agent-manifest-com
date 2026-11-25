@@ -66,7 +66,7 @@
 
 Agent Manifest provides the Agent Manifest Protocol, a specification, registry, validator, and CLI tools for autonomous API discovery. It offers a well‑known .well‑known/agent-manifest.json endpoint, a public registry of APIs, and tools for publishing and validating manifests. The platform includes documentation, SDKs, and examples to help developers integrate the protocol into their services.
 
-**Areas:** API · Protocol · Registry · Validation · OpenSource
+**Areas:** Protocol · Registry · Validation · Open Source
 
 ## Agent Manifest on APIs.io
 
@@ -90,7 +90,7 @@ Spectral rulesets for the provider's contracts.
 
 Authentication, trust centre, and vulnerability disclosure.
 
-- [Agent Manifest Com Domain Security](https://apis.io/security/agent-manifest-com/agent-manifest-com-domain-security/)
+- [Agent Manifest Domain Security](https://apis.io/security/agent-manifest-com/agent-manifest-com-domain-security/)
 
 ## Where to find this API
 
@@ -101,25 +101,25 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 ## API Evangelist rating
 
-**Kin Score 23.3** — emerging · rubric 0.25.0 · scored 2026-11-01
+**Kin Score 10.3** — minimal · rubric 0.28.1 · scored 2026-11-21
 
 | Facet | Score |
 |---|---|
-| Discoverability | 53.6 |
-| Contract quality | 33.7 |
-| Contract governance | 79.1 |
-| Operational transparency | 5.3 |
+| Discoverability | 62.5 |
+| Contract quality | 9.4 |
+| Contract governance | 22.0 |
+| Operational transparency | 4.8 |
 | Developer ergonomics | 0.0 |
 | Access clarity | 0.0 |
 
-**Agent readiness 23.8** — agent-aware
+**Agent readiness 21.9** — agent-aware
 
 | Agent-readiness dimension | Result |
 |---|---|
 | Spec Presence | yes |
 | Agentic Access | — |
 | Reversibility Documented | — |
-| MCP Server | documented (partial credit) |
+| MCP Server | — |
 | Auth Clarity | — |
 | Idempotency | — |
 | Error Semantics | — |
@@ -128,7 +128,7 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Event Surface Described | — |
 | Agent Skills | — |
 | Well Known Catalog | yes |
-| Consent Identity | — |
+| Consent Identity | signal |
 | Agent Card | flavored (partial credit) |
 | Dry Run Mode | — |
 | Delegated Identity | — |
@@ -137,8 +137,12 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Agentic Commerce | — |
 | Pagination Ratio | na |
 | Operation Distinctiveness | distinct |
+| MCP Tool Quality | na |
+| Onboarding Descriptor | — |
+| Dns Aid Index | na |
+| Markdown Negotiation | yes |
 
-**Regulatory alignment 10.8** — Horizontal (data, software, accessibility, platform)
+**Regulatory alignment 4.9** — Horizontal (data, software, accessibility, platform)
 
 The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/agent-manifest-com/](https://apis.io/providers/agent-manifest-com/).
 
